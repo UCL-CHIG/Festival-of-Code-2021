@@ -17,3 +17,16 @@ Rachel Pearson - [github](https://github.com/RachelPearson)
 
 Ania Zylbersztejn - [github](https://github.com/AniaZylb)
 
+
+## Useful resources
+- [UCL support for GitHub](https://www.ucl.ac.uk/isd/services/research-it/research-software-development-tools/support-for-ucl-researchers-to-use-github)
+- [GitHub tutorial from HDR UK](https://github.com/semacu/20190927_IntroductionGithub_HDRUK/blob/master/README.md)
+- [Markdown tutorial (for writing your README files)](https://www.markdowntutorial.com/)
+- [Setting up GitHub for code sharing](https://towardsdatascience.com/towards-open-health-analytics-our-guide-to-sharing-code-safely-on-github-5d1e018897cb) – a  blog on experiences from the Health Foundation, including a useful overview of principles for sharing code safely when working with sensitive data
+- [Tutorial on using GitHub for version control in IDHS](https://web.microsoftstream.com/video/12d99c52-f167-4c67-9556-b01facc8c65a?channelId=be035798-89cf-43dc-8de4-9b2f6866545f)
+- Support for choosing licence: [choosealicense.com](https://choosealicense.com/) or this [licence selector](https://ufal.github.io/public-license-selector)
+- Great README file template from [the Health Foundation](https://github.com/HFAnalyticsLab/README_template)
+- [UCL Coding Communities](https://user-images.githubusercontent.com/57709358/122090415-a7c51e00-cdff-11eb-898a-92696ac10b7e.png)
+- [UCL Code Clubs](http://github-pages.ucl.ac.uk/CodeClubs/)
+
+
