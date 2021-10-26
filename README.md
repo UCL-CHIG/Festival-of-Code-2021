@@ -3,10 +3,10 @@
 
 Are you an Early Career Researcher at UCL who wants to find out more about code sharing? Would you like a simple introduction to sharing code through GitHub repositories? 
 
-This repository covers materials on code sharing as an early career reseracher, based on a session organised by Rachel Pearson, Dr Louise Mc Grath-Lone and Dr Ania Zylbersztejn on behalf of the Child Health Informatics Group (CHIG) for the UCL Festival of Code 2021. 
+This repository covers materials on code sharing as an early career reseracher, based on a session organised by Dr Rachel Pearson, Dr Louise Mc Grath-Lone and Dr Ania Zylbersztejn on behalf of the Child Health Informatics Group (CHIG) for the UCL Festival of Code 2021 and 2021 Research Methods e-Festival. 
 
 This repository includes:
-- slides used during the session; you can view them on GitHub, but you will need to download the powerpoint to access all links. 
+- slides with notes from the UCL Festival of Code 2021; you can view them on GitHub, but you will need to download the powerpoint to access all links. 
 - a recording of our quick tutorial on getting started with GitHub [here](https://web.microsoftstream.com/video/ea6f7032-5101-4437-9616-47260dfcaec3)
 - list of links to useful resources (at the bottom)
 
@@ -14,6 +14,8 @@ This repository includes:
 ## Festival of Code 2021
 In July 2021, we held a session on code sharing as part of the UCL Festival of Code. In the session, we shared our experiences of code sharing (the good, the bad and the ugly!) and invited discussion around how code sharing can be encouraged at UCL, recognising the unique challenges that Early Career Researchers face. We also offered some practical advice about how we set up GitHub repositories to share code, both within our group and with the wider research community. We were thrilled to have almost 90 attendees from 9 out of UCL’s 11 faculties. We summarised the benefits and barriers to code sharing and the views that participants shared in this [blog post](https://blogs.ucl.ac.uk/open-access/2021/09/14/code-sharing-as-an-ecr/)
 
+## 2021 Research Methods e-Festival
+In October 2021, we also held a session on code sharing as part of the 2021 Research Methods e-Festival. We have updated links below following discussion with festival participants.
 
 ## Authors
 Louise Mc Grath-Lone 
@@ -24,6 +26,7 @@ Ania Zylbersztejn - [github](https://github.com/AniaZylb)
 
 
 ## Useful resources
+
 General:
 - [GitHub tutorial](https://github.com/semacu/20190927_IntroductionGithub_HDRUK/blob/master/README.md) from HDR UK
 - [Setting up GitHub for code sharing](https://towardsdatascience.com/towards-open-health-analytics-our-guide-to-sharing-code-safely-on-github-5d1e018897cb) – a  blog on experiences from the Health Foundation, including a useful overview of principles for sharing code safely when working with sensitive data
@@ -60,5 +63,10 @@ You can also have a look at how other teams and organisations use GitHub:
 - [Public Health England](https://github.com/PublicHealthEngland/)
 - [NHS Digital](https://github.com/nhsdigital)
 
+Examples of code sharing from social sciences:
+- [Github page](https://github.com/RoxanneConnelly/Social-Class-Inequalities-in-General-Cognitive-Ability-in-Two-British-Birth-Cohorts/blob/master/JupterNotebook_20171122.ipynb) with code for a study investigating social class inequalities in general cognitive ability in Britain 
+- [Tutorial](https://www.youtube.com/watch?v=Os3s1jwLAEI&ab_channel=NCRMUK) on using Jupyter Notebooks for Social Science Research
 
+Other resources:
+-[The Turing Way](https://github.com/alan-turing-institute/the-turing-way): a handbook to reproducible, ethical and collaborative data science
 
