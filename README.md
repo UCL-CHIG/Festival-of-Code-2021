@@ -68,5 +68,5 @@ Examples of code sharing from social sciences:
 - [Tutorial](https://www.youtube.com/watch?v=Os3s1jwLAEI&ab_channel=NCRMUK) on using Jupyter Notebooks for Social Science Research
 
 Other resources:
--[The Turing Way](https://github.com/alan-turing-institute/the-turing-way): a handbook to reproducible, ethical and collaborative data science
+- [The Turing Way](https://github.com/alan-turing-institute/the-turing-way): a handbook to reproducible, ethical and collaborative data science
 
